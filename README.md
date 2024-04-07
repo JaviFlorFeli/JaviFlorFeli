@@ -16,4 +16,4 @@
 [<img align="left" alt="Javi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/javier
+[linkedin]: https://www.linkedin.com/in/javier-flores-felix-bb2b6b302/
